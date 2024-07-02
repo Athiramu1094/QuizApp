@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+QuizWiz is a responsive quiz application built using React, designed to test knowledge about India through multiple-choice questions. Users can start the quiz with a click of a button, answer a series of questions, and see their score at the end. The application utilizes React's useState hook for managing state, allowing seamless interaction and score tracking.
